@@ -1,0 +1,277 @@
+.test
+{
+    width: 30%;
+    color: white;
+    height: 5%;
+}
+.test2
+{
+    background-color: rgba(255,255,255,0.5) ;
+    width: 0.1%;
+    height: 10%;
+    
+}
+.test3
+{
+    background-color: rgba(255,255,255,0.2);
+    width: 100%;
+    height: 0.2%;
+}
+.test4
+{
+    width: 100%;
+    height: 90%;
+    position: relative
+}
+ul
+{
+    list-style: none;
+}
+li
+{
+    display: inline-block;
+}
+.caption
+{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+.test6
+{ 
+    position: absolute;
+    left: 200px;
+    bottom: -70px;
+    width: 20%;
+    height: 24%;
+    color: #fff;
+    background-color: #00c3da;
+    display: inline-block
+}
+.test7
+{
+    display: inline-block;
+    position: absolute;
+    top:180px;
+    left: 420px;
+    width: 20%;
+    border: 1px solid white;
+    color: white
+}
+.test7:hover
+{
+color: black;
+    background-color: white;
+}
+.about
+{
+    width: 100%;
+    height: 120%;
+    overflow: hidden;
+}
+.texts
+{
+    width: 100%;
+    height: 50%;
+}
+.captions
+{
+    text-align: center;
+}
+.text8
+{
+    padding-top: 100px; 
+    padding-bottom: 10px;   
+}
+.test8
+{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
+.test8:hover
+{
+    color: white;
+    background-color: black;
+}
+.mission
+{
+    width: 100%;
+    height: auto;
+    border: 1px solid #787878;
+}
+img-holder
+{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+img-cover
+{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.test10
+{
+    color:black;
+    background-color: white;
+    border: 1px solid #787878;
+    height: 50px;
+    width: 130px;
+}
+.test10:hover
+{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 130px;
+}
+.creativeteam
+{
+    width: 100%;
+    height: 100%;
+    
+}
+.teamimage:hover .overlay
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0px;
+    bottom: ;
+    background-color: rgba(0, 195, 218, 0.9);
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+}
+.servicesss
+{
+    background-image: url(../img/bg-image-26.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.overlay2
+{
+    background-color: rgba(31,31,31,0.8);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.test20
+{
+    color: black;
+    font-size: 100px;
+}
+.rock
+{
+    width: 100%;
+    height: auto;
+  
+}
+.line
+{
+    width: 4%;
+    height: 0.2%;
+    background-color: black;
+    margin-left: 560px;
+}
+.test25
+{
+    margin-left: 390px;
+    margin-top: 45px;
+}
+.test26
+{
+    border-radius: 50%;
+    color: white;
+    background-color: #09c;
+}
+.cheab
+{
+    width: 100%;
+    height: 120%;
+   
+}
+.pricing
+{
+    background-color: #f7f7f7;
+    margin-top: 50px;
+    position: relative;
+}
+.test31
+{
+    background-color: #787878;
+}
+.starter
+{
+ background-color: white;
+    width: 25%;
+    height: 60%;
+    position: absolute;
+    bottom: 80px;
+}
+.starter1
+{
+ background-color: white;
+    width: 25%;
+    height: 60%;
+    position: absolute;
+    bottom: 80px;
+    left: 500px;
+}
+.starter2
+{
+    background-color: white;
+    width: 25%;
+    height: 60%;
+    position: absolute;
+    bottom: 80px;
+    left: 900px;
+}
+.test30
+{
+    display: block;
+}
+.customers
+{
+    background-color: #ccc;
+    width: 100%;
+    height: 100%;
+}
+.fady
+{
+    width: 60%;
+    height: 60%;
+    background-color: white;
+    margin-left: 200px;
+    
+    margin-top: 70px;
+    position: relative;
+}
+.baba
+{
+   
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+}
+.baba2
+{
+    
+    width: 50%;
+    height: auto;
+}
+.touch
+{
+    margin-left: 72px;
+    margin-top: 100px;
+}
+.test48
+{
+    color: white;
+}
